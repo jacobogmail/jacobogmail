@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+<img src="https://media1.tenor.com/m/VjMzob_XJbgAAAAC/rock-and-roll-hand.gif" width="150"/>
+Bienvenid@s al GitHub de Jacobo
+
+![Banner de Jacobogonzalez](1.png)
 
 <!--
 **jacobogmail/jacobogmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
